@@ -29,7 +29,7 @@ L'oeuvre a été réaliser en 2021.
 
 ## Description de l'oeuvre
 
-Résonances,2021
+Résonances oeuvres réalisé en 2021 est une
 Installation interactive, bois, acier, acrylique, affichage DEL, ordinateur, composants électroniques
 380 x 560 x 300 cm / 149,6 x 220,4 x 118.1 in
 
@@ -37,15 +37,11 @@ Résonances est une exposition d'art numérique qui a eu lieu en 2021 à la Soci
 
 
 
+![image-20230202-160535-91f7eac9](https://user-images.githubusercontent.com/112128368/220815951-17864b83-86d9-45a7-9843-50b1cdd3a7ae.jpeg)
 
+![image-20230202-160533-ab25d612](https://user-images.githubusercontent.com/112128368/220815987-0ccc2556-d6d1-45da-8517-745c2c2f8815.jpeg)
 
-![Description](https://user-images.githubusercontent.com/112128474/220764713-18a9e161-aaca-4553-bdf9-3ad8b425a57b.png)
-
-![Vue1](https://user-images.githubusercontent.com/112128474/220795034-5b998f63-cb96-4050-a916-74d7483805ec.png)
-
-![Vue2](https://user-images.githubusercontent.com/112128474/220795031-96e3929e-3340-4d5a-a745-74bd11b7f302.png)
-
-![Vue3](https://user-images.githubusercontent.com/112128474/220795036-e4334044-569a-4507-8d66-4e055abaccff.png)
+![image-20230202-160540-4895f910](https://user-images.githubusercontent.com/112128368/220815992-35641b9e-8690-452a-a210-94f203b5d8ad.jpeg)
 
 
 ## Types d'installation
