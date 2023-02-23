@@ -65,7 +65,7 @@ L'oeuvre contient du bois, de l'acier, de l'acrylique, un écran DEL, ordinateur
 
 ## Éléments nécessaires à la mise en exposition
 
-Des cables(audio), des speaker, de la lumiere ,une ecran ,des cache fils et des soutiens 
+Des cables, des speaker, de la lumiere ,une ecran ,des cache fils et des soutiens du matériel de construction.
 
 ## Expérience vécue
 
@@ -82,5 +82,4 @@ il n'ya rien que je ferait autrement ou que je ne garderais pas mais j'ameliorer
 
 ## Référence
 
-https://www.elektramontreal.ca/bian2022-louis-philippe-rondeau?lang=fr
 
