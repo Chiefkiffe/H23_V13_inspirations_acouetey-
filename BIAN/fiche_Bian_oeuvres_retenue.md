@@ -57,7 +57,7 @@ Type d'installation: intéraction
 C'est l'une des premières oeuvre qu'on voit lorsqu'on rentre dans la salle sombre avec sa forme triangulaire, qui est dirigé à la gauche de la salle. L'oeuvre prend assez d'espace pour que les gens puisse observer et interagir. L'oeuvre illumine vraiment la piece avec les centaines de LED que contient l'écran et le triangle. 
 
 
-![Croquis](https://user-images.githubusercontent.com/112128474/220784423-bf283a8a-e1c7-4fc6-8b0a-d8be3e418065.PNG)
+![Croquis]![Capture d’écran 2023-02-22 214831](https://user-images.githubusercontent.com/112128368/220816212-b218e2ba-9ea6-4d14-9ea2-e11f602302b1.png)
 
 ## Composantes et techniques
 
