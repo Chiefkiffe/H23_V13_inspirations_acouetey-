@@ -50,7 +50,7 @@ Résonances est une exposition d'art numérique qui a eu lieu en 2021 à la Soci
 
 Type d'installation: intéraction
 
-![GrandeVue](https://user-images.githubusercontent.com/112128474/220794670-b231b636-aaf3-4a58-94a3-3dd8d4d904ad.png)
+
 
 ## Mise en espace
 
@@ -71,16 +71,10 @@ Des cables(audio), des speaker, de la lumiere ,une ecran ,des cache fils et des 
 
 J'ai vécu une belle expérience j'ai eu la chance d'observer plusieurs oeuvres et de faire des connaissances d'oeuvres exceptionnels. 
 
-
-
-
-
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 
-Le fait de reproduire une image de toi avec une installation et que ce siut automatique c'est plutot intéressant ca me donne des idee de reproduire une installation comme ca a montreal ou ca affichera ensuite l,image sur un immeuble ca serait interessant.
+Le fait de reproduire une image de toi avec une installation et que ce siut automatique c'est plutot intéressant ca me donne des idee de reproduire une installation comme ca a montreal ou ca affichera ensuite l,image sur un immeuble ca serait interessant. 
 
-
-![auto](https://user-images.githubusercontent.com/112128474/220798365-e3e91748-9c0a-4691-b8f8-300ee2a1703f.png)
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
