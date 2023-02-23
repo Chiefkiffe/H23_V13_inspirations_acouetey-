@@ -69,38 +69,24 @@ Des cables(audio), des speaker, de la lumiere ,une ecran ,des cache fils et des 
 
 ## Expérience vécue
 
-J'ai vécu une expérience plutôt plaisante, c'était vraiment intrigant de passer devant la caméra et de voir le résultat sur l'écran. Chaque personne avait sa façon de passer à travers et c'est fascinant à chaque fois, l'un passe lentement ce qui va étirer l'image de la personne, d'autres passe rapidement et ainsi. Une oeuvre exceptionnelle.
+J'ai vécu une belle expérience j'ai eu la chance d'observer plusieurs oeuvres et de faire des connaissances d'oeuvres exceptionnels. 
 
-![moiYavuz](https://user-images.githubusercontent.com/112128474/219435617-1322e50b-aaa7-490a-96f0-58e0aeb5972a.png)
 
-https://user-images.githubusercontent.com/112128474/220791980-1b433113-56df-48c6-9a83-2dba8b134983.mp4
+
+
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées
 
-J'ai vraiment aimé qu'une oeuvre simple qui fait que prendre des photos de façon unique soit aussi captivant. Cette oeuvre me fait rappeler des miroirs déformants qu'on voit dans les fêtes foraines, mais de façon moderne et virtuelle.
+Le fait de reproduire une image de toi avec une installation et que ce siut automatique c'est plutot intéressant ca me donne des idee de reproduire une installation comme ca a montreal ou ca affichera ensuite l,image sur un immeuble ca serait interessant.
 
-Sinon j'ai aussi aimé l'oeuvre des deux autos en collision en ralenti, j'aime tout ce qui est relié avec les autos, ducoup cela ma captivé instantanément.
 
 ![auto](https://user-images.githubusercontent.com/112128474/220798365-e3e91748-9c0a-4691-b8f8-300ee2a1703f.png)
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-J'aurai changé la base pour qu'elle puisse faire une rotation de 360 degrés autour de la personne pour avoir des effets differents sur l'image et peut-être changer la couleur des lumières comme autre option.
+il n'ya rien que je ferait autrement ou que je ne garderais pas mais j'ameliorerais certainement le resultat.
 
 ## Référence
 
 https://www.elektramontreal.ca/bian2022-louis-philippe-rondeau?lang=fr
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
