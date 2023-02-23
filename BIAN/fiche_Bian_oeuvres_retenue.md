@@ -3,8 +3,6 @@
 ## Nom de l'exposition
  Bian 6
 
-![entrerArsenal2](https://user-images.githubusercontent.com/112128474/219438308-eeece3a9-3e76-45ac-b24e-3a979081edb2.png)
-
 ## Lieu de mise en exposition
 
 Arsenal art contemporain a Montréal.
@@ -20,7 +18,6 @@ Itinérante
 ## Titre de l'oeuvre
 
 Résonances
-
 
 ## Nom de l'artiste
 
