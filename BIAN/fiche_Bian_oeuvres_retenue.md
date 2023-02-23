@@ -54,10 +54,10 @@ Type d'installation: intéraction
 
 ## Mise en espace
 
-C'est l'une des premières oeuvre qu'on voit lorsqu'on rentre dans la salle sombre avec sa forme triangulaire, qui est dirigé à la gauche de la salle. L'oeuvre prend assez d'espace pour que les gens puisse observer et interagir. L'oeuvre illumine vraiment la piece avec les centaines de LED que contient l'écran et le triangle. 
+c'est oeuvre est triangulaire et assez haute elle placé sur du bois noir et son écran est juste en face.
 
+![Capture d’écran 2023-02-22 214831](https://user-images.githubusercontent.com/112128368/220816457-12176ef1-be31-42ab-863f-cc3e085962a9.png)
 
-![Croquis](Capture d’écran 2023-02-22 214831](https://user-images.githubusercontent.com/112128368/220816212-b218e2ba-9ea6-4d14-9ea2-e11f602302b1.png)
 
 ## Composantes et techniques
 
@@ -65,7 +65,7 @@ L'oeuvre contient du bois, de l'acier, de l'acrylique, un écran DEL, ordinateur
 
 ## Éléments nécessaires à la mise en exposition
 
-Des cables(audio), des speaker, des cache fils et des soutiens était nécessaire pour à la mise en expositions
+Des cables(audio), des speaker, de la lumiere ,une ecran ,des cache fils et des soutiens 
 
 ## Expérience vécue
 
