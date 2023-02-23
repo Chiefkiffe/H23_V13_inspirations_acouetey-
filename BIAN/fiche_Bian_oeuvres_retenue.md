@@ -43,6 +43,8 @@ Résonances est une exposition d'art numérique qui a eu lieu en 2021 à la Soci
 
 ![image-20230202-160540-4895f910](https://user-images.githubusercontent.com/112128368/220815992-35641b9e-8690-452a-a210-94f203b5d8ad.jpeg)
 
+![image-20230202-160609-c9869344](https://user-images.githubusercontent.com/112128368/220816067-3d241a8e-5fd0-4d69-9a00-5fa58ae125d2.jpeg)
+
 
 ## Types d'installation
 
