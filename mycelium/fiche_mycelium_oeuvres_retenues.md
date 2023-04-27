@@ -34,7 +34,6 @@ ________________________________________________________________________________
 > - 4 Haut-parleurs
 > - 1 carte son
 > - 3 projecteurs vidéo
-> - Quelques draps blancs 
 > - 1 tablette tactile
 > - 1 ordinateur
 > - 1 chariot
