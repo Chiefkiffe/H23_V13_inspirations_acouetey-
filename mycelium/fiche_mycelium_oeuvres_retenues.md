@@ -25,8 +25,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________    
 *Mise en espace*
 _____________________________________________________________________________________________________________________________________________________
-> L'oeuvre est présentée dans le petit studio du collège Montmorency. Le projet est projeté sur 3 murs à l'aide d'un projecteur sur des rideaux blancs 
-ce qui donne une forme de U. Au milieu de la pièce, se trouve une tablette qui est soutenue par un support à table. Cette tablette tactille affiche un site web qui affiche 6 animaux aquatiques. De plus, il y a des capteur à l'entrée de la salle qui déclenchent un effect sonore lorsqu'une personne entre dans le petit studio.
+> Situé dans le petit studio du Collège Montmorency, l'installation d'art est présentée de manière immersive. Les murs de la pièce sont utilisés pour projeter le projet d'art sur 3 murs. Une tablette tactile est placée au centre de la pièce, soutenue par un support. Cette tablette affiche un site web qui présente six animaux aquatiques différents.
 
 ![schema_1](Photos/echomarine_schema_1.png)
 ![schema_2](Photos/echomarine_schema_2.png)
@@ -68,22 +67,22 @@ ________________________________________________________________________________
 *Éléments nécessaires à la mise en exposition*
 _____________________________________________________________________________________________________________________________________________________
 > -  Haut-parleurs
-> -  projecteur vidéo
-> - Quelques draps blancs 
+> - 4 projecteur vidéo
+> - 3 Écran de projection
 > - 1 tablette tactile
 > - 1 ordinateur
 > - 1 support à tablette
 _____________________________________________________________________________________________________________________________________________________
 *Expérience vécue*
+> j'ai vécu une très belle expérience j'ai pu savoir l'œuvre de mes yeux c'était magnifique le site web fonctionnait très biens et était simple jolie et efficace et l'expérience immersive vraiment génial et je trouve que le but de sensibiliser à l'égard de ces espèces en voie de disparition a été très réussi.
 _____________________________________________________________________________________________________________________________________________________ 
 *avis*
 _____________________________________________________________________________________________________________________________________________________
-> Ce que j'ai le plus aimé: Les animations des différents animaux sont parfaitement reproduite. Le fait de donner un petit résumé sur chaque animal est vraiment une très bonne idée. La gestion sonore et les différents sons personalisés à chaque animal nous plonge dans une ambiance vraiment seraine. Je trouve que ce projet est accès au grand public, même qu'il est parfaitement adapté aux jeunes enfants.
+> Ce que j'ai le plus aimé: l'efficacité le fonctionnement du projet était nickel le rendu était digne d'un vrai musée d'exposition.
 > 
-> Ce que j'ai le moins aimé: Je pense que si les étudiantes auraient rajouté des détails dans les animations de fonds qui évoquent la pollution comme des fillets de pêche, des bouteilles et sacs en plastiques ou bien encore des coraux détruits cela aurait eu plus d'impact sur le message qu'elles veulent envoyer
-_____________________________________________________________________________________________________________________________________________________
+> Ce que j'ai le moins aimé: il n'y a rien que je n'ais pas aimé mais je pense que j'aurais aimé voir le résultat sur de beaux écrans 4K mais le matériel est biens sur limité à un budget.
 
 _____________________________________________________________________________________________________________________________________________________
 *Références*
 _____________________________________________________________________________________________________________________________________________________
-Page Web des créatrices :  https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
+https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
