@@ -26,7 +26,7 @@
 
 ### Année de réalisation
 
-- Aucune information la dessus.
+> Aucune information la dessus.
 
 ### Description de l'oeuvre
 > œuvre simple basé sur l'audio.
