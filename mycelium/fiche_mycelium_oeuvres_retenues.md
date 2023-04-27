@@ -13,16 +13,14 @@
 ____________________________________________________________________________________________________________________________________________________
 *Description de l'oeuvre ou du dispositif*
 _____________________________________________________________________________________________________________________________________________________
-> Lorsqu'on rentre dans le petit studio, on remarque des animations de bulles qui montent à la surface et des animations d'algues ous-marines sont toujours diffusées sur les murs. Une tablette est présente au millieu de la pièce qui affiche 6 animaux aquatiques. Lorsqu'on appuie sur l'une des créatures, une petite description de l'animal apparait sur le petit écran et au même moment, le projecteur affiche sur les murs une animation de l'animal en question qui se déplace. Tout ce spectacle est complété à l'aide de projection sonore qui s'activent en même temps que les différentes animations.
+> Dans le studio, vous serez immédiatement transporté dans un monde aquatique magique. Des animations d'algues sous-marines sont projetées sur les murs et des bulles flottent dans l'air. Au centre de la pièce, vous trouverez une tablette qui affiche six animaux aquatiques différents. Lorsque vous appuyez sur l'un des animaux, une description de l'animal apparaît sur l'écran et une animation de l'animal se déplaçant est projetée sur les murs. Le tout est accompagné d'un spectacle sonore qui ajoute à l'expérience immersive.
 
-
-<sub> Une projection immersive controlée par un dispositif interactif qui nous donne un aperçu de la beauté des fonds marins tout en mettant de l'avant ses enjeux. Animaux interactifs et plantes marines, Echomarine a un but contemplatif et vise à conscientiser. </sub>
 
 _____________________________________________________________________________________________________________________________________________________
 *Type d'installation*
 _____________________________________________________________________________________________________________________________________________________
 
-> C'est une installation temporaire
+> installation temporaire
     
 _____________________________________________________________________________________________________________________________________________________    
 *Mise en espace*
@@ -53,9 +51,7 @@ ________________________________________________________________________________
 > - 1 affiche
 > - 1 ordinateur portable
 > - 1 commutateur Ethernet
-> 
-![prejecteur](Photos/echomarine_projecteur_1.png)
-
+> - 4 projecteurs
 
 
  ### Logiciels requis ###
@@ -68,7 +64,6 @@ ________________________________________________________________________________
 > - Node.js
 > - Pure Data
 
-![dauphin_tablette](Photos/echomarine_dauphin_tablette.png)
 _____________________________________________________________________________________________________________________________________________________
 *Éléments nécessaires à la mise en exposition*
 _____________________________________________________________________________________________________________________________________________________
