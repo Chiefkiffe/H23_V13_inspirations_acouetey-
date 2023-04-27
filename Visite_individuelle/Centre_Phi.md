@@ -1,44 +1,43 @@
 # Habitat sonore Pax
 
-[![Captura-de-Pantalla-2023-04-20-a-la-s-00-19-34.png](https://i.postimg.cc/QMVzgK9V/Captura-de-Pantalla-2023-04-20-a-la-s-00-19-34.png)](https://postimg.cc/PLsKTxMk)
-
 ### Nom de l'exposition ou de l'événement:
 
 - Habitat sonore
 
 ### Lieu de mise en exposition
 
-- Centre Phi  
+> Centre Phi  
 
 ### Type d'exposition 
 
-- exposition permanente. 
+> exposition permanente. 
 
 ### Date de la visite
 
-- 1er Mars 2023.
+> 1er Mars 2023.
 
 ### Titre de l'oeuvre
 
-- Pax
+> Pax
 
 ### Nom de l'artiste ou createur
 
-- Louis-Olivier Desmarais
+> Louis-Olivier Desmarais
 
 ### Année de réalisation
 
-- Il n'y a pas.
+- Aucune information la dessus.
 
 ### Description de l'oeuvre
+> œuvre simple basé sur l'audio.
 
 ### Type d'installation
 
-- L'installation de cette exposition est immersive et interactive. 
+> L'installation de cette exposition est immersive et interactive. 
 
 ### Mise en espace
 
-Piece fermer Carré avec des pouf.
+> Piece fermer Carré avec des pouf.
 
 ### Composantes et techniques
 
