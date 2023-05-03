@@ -53,6 +53,7 @@
 
 ### Expérience vécue
   > c'étais assez relaxant comme expérience ça a fait du bien de ce coucher et ce concentrer sur le son.
+  > https://youtube.com/shorts/5O0nt6s_ZhM?feature=share
 
 ### Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications
 > Ce que j'ai aimé c'est que c'était relaxant c'était bon a écouter pour les oreilles ça m'a permis de voir à quel pont le son peut jouer sur une œuvres je compte prendre compte de cela pour mes futurs projets.
