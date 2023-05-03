@@ -46,6 +46,8 @@
 ### Éléments nécessaires à la mise en exposition
 > - hauts parleurs
 > - lumière Led
+
+
 ![IMG_1016](https://user-images.githubusercontent.com/112128368/235821476-7794312a-2d94-4f21-a397-12511bdd137d.jpg)
 
 
