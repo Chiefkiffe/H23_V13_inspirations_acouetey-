@@ -69,12 +69,9 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 ### Lien  du projet ###
 
 ### Installations en cours ###
-![materiel](Photos/lumasol_bureau.png)
-![materiel_2](Photos/lumasol_chariot.png)
-![velo](Photos/lumasol_velo.png)
 
 ### Schéma d'installation ###
-![schema_1](Photos/lumasol_schema_1.png)
+
 
 ### Troisième du classement ###
 
