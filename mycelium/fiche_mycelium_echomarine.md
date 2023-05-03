@@ -27,6 +27,9 @@ ________________________________________________________________________________
 *Mise en espace*
 _____________________________________________________________________________________________________________________________________________________
 > Situé dans le petit studio du Collège Montmorency, l'installation d'art est présentée de manière immersive. Les murs de la pièce sont utilisés pour projeter le projet d'art sur 3 murs. Une tablette tactile est placée au centre de la pièce, soutenue par un support. Cette tablette affiche un site web qui présente six animaux aquatiques différents.
+
+![IMG_1381](https://user-images.githubusercontent.com/112128368/235823750-4c6430d5-58c4-423d-9362-f85d6faa1ab9.jpg)
+
 _______________________________________________________________________________________________________________________________________________
 *Composantes et techniques*
 _____________________________________________________________________________________________________________________________________________________
