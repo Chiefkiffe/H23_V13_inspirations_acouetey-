@@ -15,6 +15,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________
 > Dans le studio, vous serez immédiatement transporté dans un monde aquatique magique. Des animations d'algues sous-marines sont projetées sur les murs et des bulles flottent dans l'air. Au centre de la pièce, vous trouverez une tablette qui affiche six animaux aquatiques différents. Lorsque vous appuyez sur l'un des animaux, une description de l'animal apparaît sur l'écran et une animation de l'animal se déplaçant est projetée sur les murs. Le tout est accompagné d'un spectacle sonore qui ajoute à l'expérience immersive.
 
+![IMG_1385](https://user-images.githubusercontent.com/112128368/235823629-ad0ea986-7263-4500-a197-2ca593f04c89.jpg)
 
 _____________________________________________________________________________________________________________________________________________________
 *Type d'installation*
