@@ -37,7 +37,9 @@
 
 ### Mise en espace
 
-> Piece fermer Carré avec des pouf.
+  Piece fermer Carré avec des pouf.
+>![IMG_1017](https://user-images.githubusercontent.com/112128368/235820863-82858ee1-012e-449f-8494-4a2b24d97e19.jpg)
+ 
 
 ### Composantes et techniques
 
