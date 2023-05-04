@@ -79,19 +79,28 @@ je pense que je vais aimer déclencher les sons et voir les lumières jouer ca v
 
 ### Lien avec Mycélium ###
 
+c'est comme une sorte de foret les boules de lumieres representes des champigons et lorsque en marche dans
+la foret en interagit directement avec la nature en illluminant les champigon.
+
 ### Lien  du projet ###
 
 https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
 
 ### Installations en cours ###
 
+![installation](https://user-images.githubusercontent.com/112128368/236112588-6c90af00-9a68-445c-a724-987fce3ac4b6.jpg)
+
 ### Schéma d'installation ###
 
+![shema](https://user-images.githubusercontent.com/112128368/236111933-8f8278a7-dac9-4022-9330-c88334e270d4.png)
+
+![Passe_lumiere](https://user-images.githubusercontent.com/112128368/236111919-4d3385ba-7605-41ee-a5d3-b3f0cccc42ff.png)
 
 ### Troisième du classement ###
-
+je l'ai mis 3e car je trouve que il est quand meme bien fait il ressemble quand meme assez a celui de Edria mais je trouve suelemnt que Edria nous amenait plus dans un autre monde mais c e projet est très bien réalisé en soit.
 
 ### Impression sur le projet final ###
+je pense que je vais essayer d'explorer tout ce que les lumières sont capables de faire je vais me déplacver et voir les résultat.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
