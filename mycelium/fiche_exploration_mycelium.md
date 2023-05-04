@@ -121,13 +121,19 @@ https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
 
 ### Installations en cours ###
 
+![installation](https://user-images.githubusercontent.com/112128368/236113406-47e9cc31-a1f9-4b18-8a80-464e095c1e6d.jpg)
 
 ### Schéma d'installation ###
 
+![shema](https://user-images.githubusercontent.com/112128368/236113675-008d1620-9480-4c2d-866e-6fef7de2279c.png)
+
 ### Quatrième du classement ###
+
+j'ais mis ce projet en dernier tout simplement car je l'ai trouver trop simple et banal comparé aux autres.
 
 ### Impression sur le projet final ###
 
+je vais certainemnt essayer de pédaler pour voir les résultats que j'obtiendrais.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Cours du programme qui sont important pour réaliser des projets du même type*
