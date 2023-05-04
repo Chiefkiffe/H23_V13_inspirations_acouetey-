@@ -21,11 +21,16 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
 ### Schéma d'installation ###
 
+![Shema](https://user-images.githubusercontent.com/112128368/236109595-555ef370-879e-40d6-a6a2-9120a5e0549b.png)
+
+
 ### Premier du classement ###
 
+J'ai mis ce projet en premier car je l'ai trouver très interessant et l'objectif est vraiment un bon motif de plus j'adore la facon dont la production a été faites.
 
 ### Impression sur le projet final ###
 
+je pense que je m'attend a etre toucher au coeur et a plus aimer les animaux marins
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2-Edria ##
@@ -39,7 +44,7 @@ https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 - Jean-Christophe
 
 ### Lien avec Mycélium ###
-
+il essaye de mettre un lien entre la technoologie et la nature de facon interactif
 
 ### Lien  du projet ###
 
