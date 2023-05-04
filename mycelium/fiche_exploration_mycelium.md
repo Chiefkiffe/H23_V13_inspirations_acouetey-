@@ -143,5 +143,6 @@ je vais certainemnt essayer de pédaler pour voir les résultats que j'obtiendra
 ----------------------------------------------------------------------------------------------------------------------------------------
 Technique ou composante technique que je ne connaissais pas
 ----------------------------------------------------------------------------------------------------------------------------------------
-
+je ne savais pas c'était quoi Max lce logiciel a l'air compliqué mais une fois maitriser tu peux faire des folie avec.
+j,ai également pu voir beaucoup de matériaux d'installation génial.
 
