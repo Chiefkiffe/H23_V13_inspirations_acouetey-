@@ -113,10 +113,11 @@ je pense que je vais essayer d'explorer tout ce que les lumières sont capables 
 - Pénélope Morrisson
 
 ### Lien avec Mycélium ###
-
+ce projet vise a sensibilioser les gesn sur les problemens de notre environnement planétaire 
+nous suons on nous donnant corp et ames pour faire briller l'arbre de joie.
 
 ### Lien  du projet ###
-https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html
+https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
 ### Installations en cours ###
 
