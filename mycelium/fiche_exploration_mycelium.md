@@ -1,5 +1,5 @@
 
-# Résumé de tous les projets des élèves de 3ème année en TIM #
+# projets des élèves de 3ème année en TIM #
 
 ## 1-Echomarine ##
 ### Noms des créateurs ###
@@ -10,13 +10,14 @@
 - Maria Laura Coronel
 
 ### Lien avec Mycélium ###
-
-
+Le projet vise a sensibilliser les gens aux animaux marins qui sont en voie de disparition.
 ### Lien  du projet ###
 
 https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
 
 ### Installations en cours ###
+
+![installation](https://user-images.githubusercontent.com/112128368/236109393-59580d49-7f09-49af-a5f0-743917ee6797.jpg)
 
 ### Schéma d'installation ###
 
