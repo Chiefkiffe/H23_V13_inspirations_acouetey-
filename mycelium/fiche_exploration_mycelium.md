@@ -52,13 +52,20 @@ https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
 
 ### Installations en cours ###
 
+![installation](https://user-images.githubusercontent.com/112128368/236111147-96806da8-4bfc-43a6-b7a0-baa4cc92ead6.jpg)
 
 ### Schéma d'installation ###
+
+![schema_electrique](https://user-images.githubusercontent.com/112128368/236110908-dc26bf99-320a-43c6-a743-823503ea8ce3.png)
 
 
 ### Deuxième du classement ###
 
+Je l'ai mis en deuxième position car je trouve la réalisation très belles et je trouve que il est très bien réaliser les couleurs sont vraiment belle 
+et ca ma l'air d'une belle expérience.
+
 ### Impression sur le projet final ###
+je pense que je vais aimer déclencher les sons et voir les lumières jouer ca va etre une belle expérience un régal pour l;es yeux
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
